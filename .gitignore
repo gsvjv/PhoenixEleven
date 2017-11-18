@@ -30,7 +30,7 @@ Content/InfinityBladeWeapons/
 *.VC.VC.db
 *.VC.opendb
 *.VC.db
-*.VC.ipch
+*.ipch
 
 ##########################
 # GITHUB GENERATED FILES #
