@@ -15,3 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+# LFS tracking
+git lfs track "*.uasset"
+git lfs track "*.umap"
