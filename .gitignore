@@ -7,13 +7,16 @@
 *DerivedDataCache
 *Intermediate
 *Saved
+Content/FirstPerson/
+content/FirstPersonCPP/
+Content/Geometry/
 
 Content/StarterContent/
 Content/AnimStarterPack
 Content/LowPolyRainforest
 Content/TropicalIsland
 Content/KiteDemo/
-Content/WaterPlanes
+Content/WaterPlane
 
 Content/InfinityBladeAdversaries/
 Content/InfinityBladeEffects/
@@ -83,5 +86,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-*.uasset
-*.umap
